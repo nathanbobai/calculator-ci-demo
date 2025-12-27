@@ -1,4 +1,4 @@
-from calculator import add, divide
+from calculator import add, divide, subtract
 
 def test_add():
     assert add(2, 3) ==5
