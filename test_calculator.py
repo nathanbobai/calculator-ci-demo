@@ -5,3 +5,6 @@ def test_add():
 
 def test_divide():
     assert divide(4, 2) == 2
+
+def test_subtract():
+    assert substract(6, c) == 1
